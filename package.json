@@ -1,14 +1,14 @@
 {
-	"name": "draft-indicator",
-	"version": "0.0.1",
+  "name": "draft-indicator",
+  "version": "0.0.1",
   "license": "MIT",
-	"main": "main.js",
+  "main": "main.js",
   "author": {
     "name": "Brian Boucheron",
     "email": "brian@boucheron.org",
     "url": "https://boucheron.org/brian"
   },
-	"devDependencies": {
-		"obsidian": "latest"
-	}
+  "devDependencies": {
+    "obsidian": "latest"
+  }
 }
