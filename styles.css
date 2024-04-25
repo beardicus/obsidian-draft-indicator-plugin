@@ -1,0 +1,11 @@
+.draft-indicator .nav-file-title-content::after {
+  color: var(--icon-color);
+  content: '✎';
+  float: right;
+  font-style: normal;
+}
+
+.draft-indicator .nav-file-title-content {
+  font-style: italic;
+  width: 100%;
+}

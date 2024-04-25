@@ -1,0 +1,10 @@
+{
+	"id": "draft-indicator",
+	"name": "Draft Indicator",
+	"version": "0.0.1",
+	"minAppVersion": "1.0.0",
+	"description": "Show draft status with ✎ icons in the file explorer.",
+	"author": "Brian Boucheron",
+	"authorUrl": "https://boucheron.org/brian",
+	"isDesktopOnly": false
+}
