@@ -1,4 +1,4 @@
-.draft-indicator .nav-file-title-content::after {
+.draft-indicator .nav-file-title-content::before {
   color: var(--icon-color);
   content: '✎';
   float: right;
